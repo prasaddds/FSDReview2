@@ -1,0 +1,41 @@
+.about-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .about-page header {
+    text-align: center;
+  }
+  
+  .about-page header h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .about-page section {
+    margin-bottom: 40px;
+  }
+  
+  .about-page section h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .about-page section p {
+    font-size: 1rem;
+  }
+  
+  .about-page .team img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .about-page footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 0.8rem;
+  }
+  

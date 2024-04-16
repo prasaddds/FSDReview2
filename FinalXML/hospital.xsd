@@ -1,0 +1,23 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:element name="bugs">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="bug" type="bugType" minOccurs="0" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:complexType name="bugType">
+        <xs:sequence>
+            <xs:element name="title" type="xs:string"/>
+            <xs:element name="description" type="xs:string"/>
+            <xs:element name="issue_date" type="xs:date"/>
+            <xs:element name="progress" type="xs:string"/>
+            <xs:element name="action_assigned_to" type="xs:string"/>
+            <xs:element name="action_status" type="xs:string"/>
+            <xs:element name="close_bug" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+</xs:schema>

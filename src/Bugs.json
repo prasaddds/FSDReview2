@@ -1,0 +1,168 @@
+[
+    {
+      "id": 1,
+      "title": "Broken Login Page",
+      "description": "Users are unable to login, receiving an error message after submitting credentials.",
+      "issue_date": "2024-03-15",
+      "progress": "Assigned",
+      "action": {
+        "assigned_to": "Developer A",
+        "status": "In Progress"
+      }
+    },
+    {
+      "id": 2,
+      "title": "404 Error on Profile Page",
+      "description": "Users are getting a 404 error when trying to access their profile page.",
+      "issue_date": "2024-03-15",
+      "progress": "Assigned",
+      "action": {
+        "assigned_to": "Developer A",
+        "status": "In Progress"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Product Image Not Loading",
+      "description": "Product images are not loading on the product detail page.",
+      "issue_date": "2024-03-16",
+      "progress": "Assigned",
+      "action": {
+        "assigned_to": "Developer A",
+        "status": "In Progress"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Checkout Button Not Functional",
+      "description": "Users are unable to proceed to checkout as the checkout button is not working.",
+      "issue_date": "2024-03-17",
+      "progress": "Assigned",
+      "action": {
+        "assigned_to": "Developer A",
+        "status": "In Progress"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Incorrect Pricing Display",
+      "description": "Product prices are displaying incorrectly on the product listing page.",
+      "issue_date": "2024-03-18",
+      "progress": "Assigned",
+      "action": {
+        "assigned_to": "Developer A",
+        "status": "In Progress"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Broken Contact Form",
+      "description": "Users are unable to submit messages through the contact form on the website.",
+      "issue_date": "2024-03-19",
+      "progress": "Assigned",
+      "action": {
+        "assigned_to": "Developer A",
+        "status": "In Progress"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Slow Page Load Times",
+      "description": "Pages on the website are loading very slowly, affecting user experience.",
+      "issue_date": "2024-03-20",
+      "progress": "Assigned",
+      "action": {
+        "assigned_to": "Developer A",
+        "status": "In Progress"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Missing Product Descriptions",
+      "description": "Some product descriptions are missing from the product detail pages.",
+      "issue_date": "2024-03-21",
+      "progress": "Assigned",
+      "action": {
+        "assigned_to": "Developer A",
+        "status": "In Progress"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Search Functionality Not Working",
+      "description": "Users are unable to search for products as the search functionality is not working.",
+      "issue_date": "2024-03-22",
+      "progress": "Assigned",
+      "action": {
+        "assigned_to": "Developer A",
+        "status": "In Progress"
+      }
+    },
+    {
+      "id": 10,
+      "title": "Broken Navigation Menu",
+      "description": "The navigation menu is not working properly on mobile devices.",
+      "issue_date": "2024-03-23",
+      "progress": "Assigned",
+      "action": {
+        "assigned_to": "Developer A",
+        "status": "In Progress"
+      }
+    },
+    {
+      "id": 11,
+      "title": "Incorrect Billing Information on Checkout",
+      "description": "Users are reporting that their billing information is incorrect after completing the checkout process.",
+      "issue_date": "2024-03-24",
+      "progress": "Assigned",
+      "action": {
+        "assigned_to": "Developer A",
+        "status": "In Progress"
+      }
+    },
+    {
+      "id": 12,
+      "title": "Broken Add to Cart Button",
+      "description": "The 'Add to Cart' button is not functioning when users try to add products to their cart.",
+      "issue_date": "2024-03-25",
+      "progress": "Assigned",
+      "action": {
+        "assigned_to": "Developer A",
+        "status": "In Progress"
+      }
+    },
+    {
+      "id": 13,
+      "title": "Incorrect Sorting on Product Listing",
+      "description": "Products on the listing page are not sorted correctly based on user preferences.",
+      "issue_date": "2024-03-26",
+      "progress": "Assigned",
+      "action": {
+        "assigned_to": "Developer A",
+        "status": "In Progress"
+      }
+    },
+    {
+      "id": 14,
+      "title": "Broken Forgot Password Functionality",
+      "description": "Users are unable to reset their password using the 'Forgot Password' feature.",
+      "issue_date": "2024-03-27",
+      "progress": "Assigned",
+      "action": {
+        "assigned_to": "Developer A",
+        "status": "In Progress"
+      }
+    },
+    {
+      "id": 15,
+      "title": "Text Overlaps on Mobile View",
+      "description": "Text content is overlapping on the website when viewed on mobile devices.",
+      "issue_date": "2024-03-28",
+      "progress": "Assigned",
+      "action": {
+        "assigned_to": "Developer A",
+        "status": "In Progress"
+      }
+    }
+  ]
+  

@@ -1,0 +1,24 @@
+/* Apply styles to the hospital element */
+hospital {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Apply styles to the patient elements */
+  patient {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  /* Apply styles to the id, name, age, gender, and diagnosis elements */
+  id, name, age, gender, diagnosis {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  /* Apply specific styles to the diagnosis element */
+  diagnosis {
+    font-weight: bold;
+    color: red;
+  }
+  

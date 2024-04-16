@@ -1,0 +1,35 @@
+/* style.css */
+h1 {
+    color: blue;
+}
+
+.patient {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.patient p {
+    margin: 5px 0;
+}
+
+.id {
+    font-weight: bold;
+}
+
+.name {
+    font-style: italic;
+}
+
+.age {
+    color: #555;
+}
+
+.gender {
+    text-transform: uppercase;
+}
+
+.diagnosis {
+    font-weight: bold;
+}
